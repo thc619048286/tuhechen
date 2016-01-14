@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+@property(nonatomic,strong)UILabel *myLabel;
 @end
 
 @implementation AppDelegate
